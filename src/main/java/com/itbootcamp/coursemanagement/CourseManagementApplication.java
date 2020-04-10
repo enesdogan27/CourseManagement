@@ -1,4 +1,4 @@
-package com.itbootcamp;
+package com.itbootcamp.coursemanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
